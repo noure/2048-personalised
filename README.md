@@ -1,7 +1,11 @@
 # game2048
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+In this project we will build the famous game 2048 with the famous AngularJS and other technologies.
+
+after cloning the project please run the the following commands :
+* `npm install`
+* `bower install`
+
 
 ## Build & development
 
